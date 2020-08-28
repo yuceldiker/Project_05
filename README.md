@@ -1,2 +1,2 @@
 # Project_05
-React, Nodejs, Express ve Mongodb kullanarak Foursquare'in basit bir hali. Not: Geliştirmesi tam olarak bitmedi.
+React, Node.js, Express ve MongoDB kullanarak Foursquare'in basit bir hali. Not: Geliştirmesi tam olarak bitmedi.
